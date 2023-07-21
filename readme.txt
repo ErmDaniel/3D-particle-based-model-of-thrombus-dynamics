@@ -1,6 +1,5 @@
 #general description
-This project describes the 3D dynamic particle-based model, which is able to analize mechanical properties of thrombus, and dependence of the thrombus geometry on the geometry of the vessel and the flow in the vessel.
-Model is able to calculate hydrodynamic forces acting on thrombus under the condition of a constant parabolic velocity profile.  
+This project describes the 3D dynamic particle-based model, which is able to analyze dynamics of thrombus under the impact of flow in microcirculation, and how thrombus dynamics depends on the interplatelet forces, wall shear rate and geometry of the injury site.
 The program is written in VisualStudio 19 ("Console App"), Windows
 
 After compilation but Before starting the program, you need to change the "Reserved stack size" to 8388608 (that's 2^23):
